@@ -30,6 +30,9 @@ footer {font-size: 25px;
         color:grey;
         padding-bottom: 12mm;}
 
+.staygreen {
+    color:rgb(30, 167, 137)
+}
 img { 
    
        padding: 10px 10px;
@@ -56,9 +59,9 @@ a.other-link {
     color:rgb(30, 167, 137)}
 
 
-nav strong a:hover{color:skyblue;}
+a:hover{color:skyblue;}
 a.active-link:active {color:pink;}
-nav strong a:focus {color:white;}
+a:focus {color:white;}
 
 
 
