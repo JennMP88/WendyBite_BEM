@@ -28,7 +28,8 @@ body{   background:rgb(80, 75, 75);
 footer {font-size: 25px;
         text-align: center;
         color:grey;
-        padding-bottom: 12mm;}
+        padding-bottom: 12mm;
+        padding-top:5mm;}
 
 .staygreen {
     color:rgb(30, 167, 137)
